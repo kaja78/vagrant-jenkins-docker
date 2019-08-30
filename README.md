@@ -9,6 +9,8 @@ Preinstalled plugins:
 
 * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Install [Vagrant](https://www.vagrantup.com/downloads.html)
+* `git clone https://github.com/kaja78/vagrant-jenkins-docker.git`
+* `cd vagrant-jenkins-docker`
 * `vagrant up`
 * Go to [Jenkins](http://localhost:8080) or [Blueocean](http://localhost:8080/blue)
 * Initial password may be found in `.jenkins_home/secrets/initialAdminPassword`.
